@@ -1,0 +1,31 @@
+.cardDetail{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    border:2px solid rgb(111, 109, 109);
+    margin: 10px auto;  
+}
+
+.imgDetail{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.cardInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #4a4a4a26;
+    text-align: center;  
+    width: 100%; 
+    border-left: 2px solid #0000008a;
+    
+}
+
+.descDetail{
+    font-size: 25px;
+    width: 85%;
+    margin: 10px auto;
+    padding: 50px;
+    background-color: #4a4a4a26;
+}

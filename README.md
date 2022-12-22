@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# CrazyRugs - Tienda de Alfombras Personalizadas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Este proyecto es un E-commerce creado con React para el curso de React de CoderHouse. [Link a sitio web](crazyrugs-react.netlify.app)_
 
-## Available Scripts
+## Recorrido del sitio
 
-In the project directory, you can run:
+![gif](public/img/SiteDemo.gif)
 
-### `npm start`
+## Instalación
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para clonar este repositorio:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+`git clone https://github.com/nkyozkz/CrazyRugsReact`
 
-### `npm test`
+Instalacion de dependecias:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+`npm install`
 
-### `npm run build`
+luego de instalar las dependencias necesarias para que el proyecto funcione, puedes ejecutarlo de manera local con el comando:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`npm start`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Dependencias Utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*[Boostrap](https://react-bootstrap.github.io/getting-started/introduction)
 
-### `npm run eject`
+*[React Router](https://v5.reactrouter.com/web/guides/quick-start)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+*[Sweetalert2](https://sweetalert2.github.io/#download)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+*[Fontawesome](https://fontawesome.com/v5/docs/web/use-with/react)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+*[Firebase](https://www.google.com/aclk?sa=l&ai=DChcSEwjjt5PyqY78AhUcQEgAHdalAEoYABAAGgJjZQ&sig=AOD64_3KYj2rb3PUy_p0hIWd6OqLzWZ19w&q&adurl&ved=2ahUKEwjFjo7yqY78AhUfD7kGHc7lD20Q0Qx6BAgHEAE)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Funcionamiento del proyecto
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este proyecto simula una tienda online, el usuario puede elegir productos en 3 categorías de tamaños **Large**, **Medium** y **small**, cuando el usuario esté listo para agregar el producto tiene que presionar ver detalle, lo que lo envía a la pestaña del producto, donde se puede agregar la cantidad deseada al carrito teniendo en cuenta el stock que maneja Firebase, cuando el carrito del usuario esté listo deberá presionar **Finalizar Compra** en la página del ítem o en el carrito, aparecerá un formulario donde el usuario llenara sus datos, esto crea un ticket que envía la información introducida a la base de datos y le **devuelve el número de pedido al usuario** junto con los datos que este introdujo para confirmar que su pedido se realizo.

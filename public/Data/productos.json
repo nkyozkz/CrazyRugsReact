@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name": "Leaf 200x180",
+        "price": 74999,
+        "description": "Alfombra Premium de lana sintetica de la mejor calidad, colección Arte diseño de hoja",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/large-leaf.jpg?alt=media&token=acc3ec3d-77f5-4525-a44d-ffe4a24040ec",
+        "category": "Large",
+        "stock": 4
+    },
+    {
+        "id": 2,
+        "name": "Bender 300x200",
+        "price": 84999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, coleccion series animadas 'Futurama'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/large-bender.jpg?alt=media&token=d53cfb49-08ba-43f5-a5c1-61193ebd7354",
+        "category": "large",
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "name": "Fruit 180x180",
+        "price": 69999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Anime 'One Piece'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/large-fruit.jpg?alt=media&token=47d6ca09-f8a7-4bd9-942e-e6196c0b9859",
+        "category": "large",
+        "stock": 6
+    },
+    {
+        "id": 4,
+        "name": "Berserk 175x175",
+        "price": 79999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Anime 'Berserk'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/large-berserk.jpg?alt=media&token=83e72370-5ddb-48ed-828f-8a6d41a4de92",
+        "category": "large",
+        "stock": 3
+    },
+    {
+        "id": 5,
+        "name": "Mandalorian 175x130",
+        "price": 69999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, coleccion 'Star Wars'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/large-mando.jpg?alt=media&token=bea78160-15d7-458b-a25b-58ae05576e7b",
+        "category": "large",
+        "stock": 4
+    },
+    {
+        "id": 6,
+        "name": "Sunflower 180x180",
+        "price": 69999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Arte Smile Sunflower Original",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/large-sun.jpg?alt=media&token=41e38cf6-31c3-4953-bad9-628226772e3a",
+        "category": "large",
+        "stock": 6
+    },
+    {
+        "id": 7,
+        "name": "Trunks 200x180",
+        "price": 75999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, coleccion series animadas 'Dragon Ball'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/large-trunks.jpg?alt=media&token=53cbb686-9f71-451b-98d5-aafae4bff102",
+        "category": "large",
+        "stock": 2
+    },
+    {
+        "id": 8,
+        "name": "Sunflower Blue 110x110",
+        "price": 62999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Arte Smile Sunflower Blue",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-B-sun.jpg?alt=media&token=b77da328-b1db-4ea6-968e-47a7db1a66f3",
+        "category": "medium",
+        "stock": 8
+    },
+    {
+        "id": 9,
+        "name": "Vaoporwave 110x90",
+        "price": 54999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Arte Vaporwave",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-art.jpg?alt=media&token=f27f9e3d-1577-4bd5-9c90-0be7c1a0f8bb",
+        "category": "medium",
+        "stock": 6
+    },
+    {
+        "id": 10,
+        "name": "Batman 125x90",
+        "price": 54999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Comics Batman",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-batman.jpg?alt=media&token=2b9dbf49-7bab-49d4-b300-e63e2b37e718",
+        "category": "medium",
+        "stock": 9
+    },
+    {
+        "id": 11,
+        "name": "This Is Fine 90x135",
+        "price": 54999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Original CrazyRugs",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-dog.jpg?alt=media&token=1e147d5b-eb11-4a8f-9375-162a55aa21d4",
+        "category": "medium",
+        "stock": 6
+    },
+    {
+        "id": 12,
+        "name": "Sunflower Grey 110x110",
+        "price": 61999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Arte Smile Sunflower Grey",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-D-sun.jpg?alt=media&token=d7b1d095-056e-4dd6-aef2-4db720ecdc06",
+        "category": "medium",
+        "stock": 6
+    },
+    {
+        "id": 13,
+        "name": "Pikachu Gamer 90x90",
+        "price": 48999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Videojuegos 'Pokemon",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-pikachu.jpg?alt=media&token=27f7b93b-8c2f-4ef6-882a-abf5f09a5e49",
+        "category": "medium",
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "name": "PlayStation Neon 90x90",
+        "price": 49999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Videojuegos 'PS'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-ps.jpg?alt=media&token=e6c67602-b1cb-473a-a885-922795c9bd06",
+        "category": "medium",
+        "stock": 4
+    },
+    {
+        "id": 15,
+        "name": "Nike Air 90x60",
+        "price": 60999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Original CrazyRugs",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-shoe.jpg?alt=media&token=acf41ae7-acb8-4f20-9b9f-a6f4d2d3bf72",
+        "category": "medium",
+        "stock": 6
+    },
+    {
+        "id": 16,
+        "name": "Spiderman Black 90x60",
+        "price": 45999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Comics 'Spiderman'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/medium-spider.jpg?alt=media&token=c58ae794-985a-4c2b-9e91-219db0be6861",
+        "category": "medium",
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "name": "Bunny 25x25",
+        "price": 20999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Original CrazyRugs",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-bunny.jpg?alt=media&token=9820776a-2019-407f-8bad-7a52506e24c5",
+        "category": "small",
+        "stock": 3
+    },
+    {
+        "id": 18,
+        "name": "Akatsuki 45x45",
+        "price": 37999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Anime 'Akatsuki'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-cloud.jpg?alt=media&token=5bcbc4dc-e835-42db-8daf-21f37d75d078",
+        "category": "small",
+        "stock": 1
+    },
+    {
+        "id": 19,
+        "name": "Nike Fire 30x25",
+        "price": 35999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Original CrazyRugs",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-f-nike.jpg?alt=media&token=008bc454-84a4-40dd-9c29-bd4848fc80f5",
+        "category": "small",
+        "stock": 6
+    },
+    {
+        "id": 20,
+        "name": "Nike Water 30x25",
+        "price": 35999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Original CraziRugs",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-w-nike.jpg?alt=media&token=78b473b6-7d14-42c4-adb5-4ced796bd509",
+        "category": "small",
+        "stock": 8
+    },
+    {
+        "id": 21,
+        "name": "Lighter 45x25",
+        "price": 40999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Original CrazyRugs",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-lighter.jpg?alt=media&token=8b5c80b8-cc36-4cf9-9189-d7ba8bf8095a",
+        "category": "small",
+        "stock": 2
+    },
+    {
+        "id": 22,
+        "name": "Tara 25x25",
+        "price": 25500,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Anime 'Mi vecino Totoro'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-tara.jpg?alt=media&token=ea7d05e0-15b0-421d-b97d-a9cd70910c52",
+        "category": "small",
+        "stock": 8
+    },
+    {
+        "id": 23,
+        "name": "Stormtrooper 30x30",
+        "price": 30999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección 'Star Wars'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-st.jpg?alt=media&token=c51342ca-06a0-4050-930a-e6d22ae12081",
+        "category": "small",
+        "stock": 7
+    },
+    {
+        "id": 24,
+        "name": "Baby Yoda 25x25",
+        "price": 30999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección 'Star Wars'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-yoda.jpg?alt=media&token=bae52587-1425-4917-98a0-f5ea212f064e",
+        "category": "small",
+        "stock": 4
+    },
+    {
+        "id": 25,
+        "name": "Shadow 35x35",
+        "price": 25399,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Videojuegos 'Sonic'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-shadow.jpg?alt=media&token=1cbf4ce1-f0d0-4e69-9593-1a234340b226",
+        "category": "small",
+        "stock": 9
+    },
+    {
+        "id": 26,
+        "name": "Sick Spongebob 40x40",
+        "price": 30999,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Series Animadas",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-sponge.jpg?alt=media&token=a4c22453-b550-40a8-a4b4-1c207315baf1",
+        "category": "small",
+        "stock": 5
+    },
+    {
+        "id": 27,
+        "name": "Pikachu Fly 25x25",
+        "price": 15000,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Videojuegos 'Pokemon'",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-pikachu.jpg?alt=media&token=dd6aeb30-6fb8-40e2-bc07-2c60348fb1f3",
+        "category": "small",
+        "stock": 10
+    },
+    {
+        "id": 29,
+        "name": "Ufo 25x25",
+        "price": 15500,
+        "description":"Alfombra Premium de lana sintetica de la mejor calidad, colección Original CrazyRugs",
+        "img": "https://firebasestorage.googleapis.com/v0/b/crazyrugs-react.appspot.com/o/small-ufo.jpg?alt=media&token=d989d04c-5643-4e4a-a2b2-6f0a9aefb547",
+        "category": "small",
+        "stock": 9
+    }
+]
