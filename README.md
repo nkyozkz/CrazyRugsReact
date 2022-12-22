@@ -1,6 +1,6 @@
 # CrazyRugs - Tienda de Alfombras Personalizadas
 
-_Este proyecto es un E-commerce creado con React para el curso de React de CoderHouse. [Link a sitio web](crazyrugs-react.netlify.app)_
+_Este proyecto es un E-commerce creado con React para el curso de React de CoderHouse. [Link a sitio web](https://crazyrugs-react.netlify.app)_
 
 ## Recorrido del sitio
 
